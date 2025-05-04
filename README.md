@@ -53,7 +53,10 @@ Execute cells sequentially to:
 -Calculate financial metrics
 ## Results
 1. Price Trends (5 Years)
+
 [Tech Stock Prices](visuals/price_trends.png)
+
+
 What It Shows:
 
 Raw (non-normalized) closing prices of tech stocks from 2021–2025.
@@ -69,7 +72,10 @@ o
 AMZN volatility: Sharp post-pandemic swings, peaking in 2023 before stabilizing.
 
 2. Volatility Analysis
+
 ![Annualized Volatility](visuals/volatility.png)
+
+
 What It Shows:
 
 Annualized standard deviation of daily returns (σ × √252 trading days).
@@ -81,7 +87,10 @@ TSLA = High risk: Most volatile stock (σ = 55%), reflecting its growth-focused 
 GOOGL = Stability: Lowest volatility (σ = 22%) among tech giants.
 
 3. Correlation Heatmap
+
 ![Stock Returns Correlation](visuals/macro_correlation.png)
+
+
 What It Shows:
 
 Correlation coefficients between tech stock returns and Federal Funds Rate over 5 years.
@@ -94,7 +103,10 @@ Negative correlations: Rising interest rates (Fed Rate ↑) generally correlate 
 
 Sector sensitivity: Tech stocks (growth-oriented) are more impacted by rate hikes than defensive sectors.
 
+
 4. CAPM Beta (AAPL vs. Market)
+
+
 ![Beta Analysis](visuals/capm_beta.png)
 What It Shows:
 
@@ -109,7 +121,10 @@ Beta = 1.25: AAPL is 25% more volatile than the broader market.
 When the market (SPY) rises/falls by 1%, AAPL tends to rise/fall by 1.25%
 
 5. Sharpe Ratios
+
 ![Risk-Adjusted Returns](visuals/sharpe_ratio.png)
+
+
 What It Shows:
 
 Annualized standard deviation of daily returns (σ × √252 trading days).
@@ -121,7 +136,10 @@ TSLA = High risk: Most volatile stock (σ = 55%), reflecting its growth-focused 
 GOOGL = Stability: Lowest volatility (σ = 22%) among tech giants.
 
 6. Macro Impact (Fed Rate vs. Stocks)
+
 ![Stock Prices vs. Fed Rate](visuals/macro_impact.png)
+
+
 What It Shows:
 
 Normalized stock prices (left axis) vs. Federal Funds Rate (right axis) from 2021–2025.
