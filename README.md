@@ -54,7 +54,7 @@ Execute cells sequentially to:
 ## Results
 1. Price Trends (5 Years)
 
-[Tech Stock Prices](visuals/price_trends.png)
+![Tech Stock Prices](visuals/price_trends.png)
 
 
 What It Shows:
